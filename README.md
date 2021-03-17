@@ -1,2 +1,2 @@
-# collusionAlgorithm
-created a new algorithm(isTouching)and own library
+# collisionAlgorithm
+Algorithm to detect collision between two objects
